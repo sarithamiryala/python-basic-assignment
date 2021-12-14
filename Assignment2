@@ -1,0 +1,87 @@
+1.What are the two values of the Boolean data type? How do you write them?
+solution:
+The two values of Boolean are True and False
+
+2.What are the three different types of Boolean operators?
+solution:
+The 3 different booean operators are
+AND
+OR
+NOT
+
+3.Make a list of each Boolean operator&#39;s truth tables (i.e. every possible combination of Boolean
+values for the operator and what it evaluate ).
+solution:
+
+A B AND
+0 0 0
+0 1 0
+1 0 0
+1 1 1
+
+A B OR
+0 0 0 
+0 1 1
+1 0 1
+1 1 1
+
+A NOT 
+0 1
+1 0
+
+4. 
+Solution:
+False (0)
+False
+True
+False
+False
+True
+
+5. equal to
+   not equal to
+   greater than or equal to
+   less than or equal to
+   greater than 
+   less than
+
+6. a = 20 is an assignment operator which means variable a is assigned a value of 20
+   a ==20 is a compator operator which checks or compare wheather a is 20 or not
+   
+   
+ 7.spam = 0 
+   in 1st if condition spam is not 10. nothing is printed
+   in 2nd if condition spam is not grater than 5, so it will go fro else and print
+   'ham'
+   'spam'
+   'spam'
+   
+  8. if spam ==1:
+        print('Hello')
+     elif spam == 2:
+         print('Howdy')
+     else:
+        print('Greeting!')
+        
+        
+ 9.ctrl+C
+ 
+ 10. 'break' can be used both in loop and switch statement
+     'continue' is only used in loop stament
+     
+ 11. range(10) = 0,1,2,3,4,5,6,7,8,9,10
+     range(0,10) = 0,1,2,3,4,5,6,7,8,9
+     range(0,10,1) = 0,1,2,3,4,5,6,7,8,9
+ 
+ 12. for i in range(1,11,1):
+         print(i)
+         x = 1
+     while x<=10:
+           print(x)
+           x = x+1
+           
+ 13. spam.bacon()
+         
+ 13. 
+ 
+       

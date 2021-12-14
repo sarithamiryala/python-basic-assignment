@@ -1,0 +1,68 @@
+1. In the below elements which of them are values or an expression? eg:- values can be
+integer or string and expressions will be mathematical operators.
+*
+'hello'
+-87.8
+-
+/
++
+6
+Solution :
+values = -87.8 ,6, 'hello'
+expression = -,/,+,*
+
+
+
+2.What is the difference between string and variable?
+solution:
+String = it is value of string inside quotes
+varible: it is name given to a memory location, it can hold a number or a string
+
+
+3. Describe three different data types.
+solution:
+The diffrent data types are
+i. Integer: integer values can be represented using thisdata type
+ii. float: decimals can be represed using float
+iii. Complex number: it has real and imaginary values
+
+
+4. What is an expression made up of? What do all expressions do?
+solution:
+An expression is combination of variables, operators,values and calls to function. Interpreter evaluates the expression and displays all the values.
+
+5.This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+solution:
+Statement is a string. Eg: "This assignment statement"
+expression is assigning some value to varible. Eg: spam =10
+
+6.After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+solution: 23
+
+7. What should the values of the following two terms be?
+'spam'+ 'spamspam';
+'spam'* 3
+solution:
+'spamspamspam'
+'spamspamspam'
+
+8.Why is eggs a valid variable name while 100 is invalid?
+solution:
+egg is a valid variable name
+100 is not validate name because variable name should not start with number or special symbols except '_'
+
+9.What three functions can be used to get the integer, floating-point number, or string
+version of a value?
+solution:
+int()
+float()
+str()
+
+10.Why does this expression cause an error? How can you fix it?
+'I have eaten ' + 99 + 'burritos'
+
+Solution:
+String cannot be added to numerical value mismatch of datatype

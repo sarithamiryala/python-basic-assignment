@@ -1,0 +1,58 @@
+
+
+1. [] means , an empty list is initalized with no elements in it.
+
+2. In a list of values stored in a variable called spam, how would you assign the value 'hello'; as the
+third value? (Assume [2, 4, 6, 8, 10] are in spam.)
+
+ans : spam = [2,4,6,8,10]
+      spam[2] ='hello'
+     
+     
+ spam= ['a','b','c','d']
+ 
+ 3. spam[int(int('3' * 2) / 11)] = 'd'
+ 
+ 4. spam[-1] = 'd'
+ 
+ 5. spa[:2] = 'a', 'b'
+ 
+bacon= [3.14,'cat',11,'cat', True]
+
+6. bacon.index('cat') = 1
+
+7. bacon.append(99) 
+   bacon = [3.14, 'cat', 11, 'cat', True, 99]
+   
+8. bacon.remove('cat')
+   bacon = [3.14, 11, 'cat', True, 99]
+   
+9. list concatenation is joining/adding  two strings whereas  list replication is duplicating the list.
+
+10. list.append('object') : this will append the object at the end of the list
+    list.insert('index', 'object'] : insert the object at the mentioned index
+   
+11. list.remove(element)
+    list.pop(index)   
+    two methods to remove elements from the list
+    
+12. List and string  values both are used to store value /data and both are sequence.
+
+13. The Difference between List and Tuples 
+
+    i. The List is written in square brackets [ ] while Tuples are written in round brackets ( ).
+    ii. List is Mutable and Tuple is immutable.
+
+14. t =(42, )
+    type(t)
+    
+15. How do you get a list value's tuple form? How do you get a tuple value's list form?
+    l = [1,2,3,4,5]  list to tuple t = (1,2,3,4,5)
+    t = (1,2,3,4,5)  tuple to list l = [1,2,3,4,5]
+    
+16. They contain references to list values
+
+17. The copy.copy() function will do a shallow copy of a list, 
+   The copy.deepcopy() function will do a deep copy of a list. only copy.deepcopy() will duplicate any lists inside the 
+    list
+    

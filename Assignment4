@@ -1,6 +1,6 @@
 
 
-1. [] means , an empty list is initalized with no elements in it.
+1. [] means , an empty list is initalized with no elements in it. l =[]
 
 2. In a list of values stored in a variable called spam, how would you assign the value 'hello'; as the
 third value? (Assume [2, 4, 6, 8, 10] are in spam.)
